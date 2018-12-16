@@ -7,3 +7,5 @@ The cv2.Canny value needs to be adjusted depending on the quality of the photos,
 This script gave me great experience with utilizing cv, an open computer vision library that can be used in Python. I was able to put into real world use my programming skills by automating the measurement and analyzing process for my group.
 
 The Week 13 folder contains some photos used for my project. Directing the script to the folder will analyze the data and give the results in csv file.
+
+Install the required Python libraries by running "pip install -r requirements.txt" in the Python directory.
