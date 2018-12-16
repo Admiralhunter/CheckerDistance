@@ -9,3 +9,5 @@ This script gave me great experience with utilizing cv, an open computer vision 
 The Week 13 folder contains some photos used for my project. Directing the script to the folder will analyze the data and give the results in csv file.
 
 Install the required Python libraries by running "pip install -r requirements.txt" in the Python directory.
+
+The Week 5 Histogram Excel file is where I computed and analyzed all the data that we collected each week. This was a project for a Six Sigma Green Belt and we had to use tools such as 3D Histograms, Control Charts and Individual Sheets. This helped us determine factors that affected our data and allowed us to improve each week.
