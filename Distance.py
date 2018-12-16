@@ -17,7 +17,7 @@ detected = False
 
 #width of reference object in Inches
 #Quarter's are 1.29in
-width = 1.114
+width = 1.29
 
 #Week of trial data
 Week = 13
